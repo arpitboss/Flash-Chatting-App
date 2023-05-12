@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25869858825",
+    "project_id": "flash-7a18f",
+    "storage_bucket": "flash-7a18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25869858825:android:5f316ed1aef460ec72a0d8",
+        "android_client_info": {
+          "package_name": "com.arpit.flash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25869858825-t80kf91kq7g2771gplj7flb81654hjd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpoCEWGuy9YF0_hrzYcVN3K2oNzGI7UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25869858825-t80kf91kq7g2771gplj7flb81654hjd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
